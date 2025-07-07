@@ -68,3 +68,5 @@ of how pipelining increases throughput and the importance of handling hazards an
 
 #OUTPUT#
 
+<img width="1899" height="998" alt="Image" src="https://github.com/user-attachments/assets/7b698a7a-9ac8-468d-8102-d0ba8b7ab16f" />
+
