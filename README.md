@@ -65,3 +65,6 @@ Outcome:
 This task provided valuable practical experience in digital design and processor architecture. By completing the pipelined processor design and verifying it through simulation, I developed a deeper understanding 
 
 of how pipelining increases throughput and the importance of handling hazards and data dependencies in real-time.
+
+#OUTPUT#
+
